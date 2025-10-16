@@ -1,0 +1,8 @@
+fastapi==0.114.0  # [web:23]
+uvicorn==0.30.6  # [web:23]
+pydantic==2.9.2  # [web:23]
+requests==2.32.3  # [web:45]
+langchain-core==0.3.10  # [web:5]
+langgraph==0.2.34  # [web:5]
+python-dotenv==1.0.1  # [web:45]
+huggingface_hub==0.24.6  # [web:81]
